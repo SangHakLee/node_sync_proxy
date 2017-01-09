@@ -1,5 +1,9 @@
+## 노드 모듈 npm i 로 다운 받기
 node_modules
 
+## 민감한 설정 정보들
 config.js
 
+## webpack으로 만들어지는 것들
 public/bundle.js
+build

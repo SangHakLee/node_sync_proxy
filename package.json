@@ -1,0 +1,19 @@
+{
+  "name": "node_sync_proxy",
+  "version": "1.0.0",
+  "description": "syncronize web and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryan",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "eslint": "^3.13.0",
+    "eslint-loader": "^1.6.1",
+    "express": "^4.14.0"
+  }
+}
